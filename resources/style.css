@@ -117,7 +117,7 @@ a:hover {
 .center {
     margin-left: auto;
     margin-right: auto;
-    display: block
+    display: block;
 }
 
 .leftprofile {
@@ -130,6 +130,9 @@ a:hover {
 
 .noborder {
     border-radius: 0em;
-    width: 100%;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
