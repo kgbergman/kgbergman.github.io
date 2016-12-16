@@ -42,6 +42,7 @@ p {
     margin-bottom: 16px;
     line-height: 200%;
     color: #f7f7f7;
+    padding: 10px;
 }
 
 h1 {
@@ -102,6 +103,15 @@ a:hover {
 #homepage {
     column-count: 2;
     column-gap: 24px;
+}
+
+pre {
+    font-family: 'Roboto Slab', serif;
+    background: rgba(0, 0, 0, 0.6);
+    margin-top: 16px;
+    margin-bottom: 16px;
+    line-height: 200%;
+    color: #f7f7f7;
 }
 
 #photo-grid {
